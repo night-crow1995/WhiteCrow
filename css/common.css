@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: sourceCodePro;
+    src: url(../font/SourceCodePro-Regular.ttf);
+}
+
+*{
+    font-family: sourceCodePro;
+}
